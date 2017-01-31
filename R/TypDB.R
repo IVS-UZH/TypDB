@@ -14,5 +14,5 @@
 #' 
 #' @references
 #' The development of TypDB would not be possible without funding from URPP Language and Space, University of Zurich 
-#' (\href{http://www.spur.uzh.ch/en}{URPP Website})
+#' (\href{http://www.spur.uzh.ch/en.html}{URPP Website})
 "_PACKAGE"
