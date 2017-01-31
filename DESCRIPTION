@@ -1,0 +1,20 @@
+Package: TypDB
+Type: Package
+Encoding: UTF-8
+Title: TypDB — collection of typological databases
+Version: 0.1.0
+Date: 2016-06-13
+LazyData: true
+Author: Steven Moran <steven.moran@uzh.ch>, Taras Zakharko
+    <taras.zakharko@uzh.ch>, Cazim Hyzi
+Maintainer: Taras Zakharko <taras.zakharko@uzh.ch>
+Description: The purpose of this package is to be an easily accessible
+    collection of various typological databases that are available online but
+    usually are cumbersome to load and/or use. In addition to the datasets, the
+    package provides a data frame that matches different types of language codes
+    (such as Glottolog, ISO 639.3 and others).
+License: file LICENSE
+URL: https://github.com/ivs-uzh/TypDB
+Depends:
+    R (>= 2.10)
+RoxygenNote: 5.0.1
