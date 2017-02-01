@@ -2,11 +2,14 @@
 \alias{language_ids}
 \docType{data}
 \title{Standard language identifiers mapping table}
+
 \description{
 %%  ~~ A concise (1-5 lines) description of the dataset. ~~
-A table containing mappings between various language codes, including
-Glottolog, ISO-639-3 and WALS. Retrieved from \url{https://github.com/ddediu/phon-class-counts/blob/master/input/code_mappings_iso_wals_autotyp_glottolog.csv}.
+A table containing mappings between various language codes, including Glottolog, ISO-639-3 and WALS. Retrieved from
+\href{https://github.com/ddediu/phon-class-counts/blob/master/input/code_mappings_iso_wals_autotyp_glottolog.csv}{Dan
+Dediu's mapping table}, which is based on earlier work by the AUTOTYP team. 
 }
+
 \usage{language_ids}
 \format{
   A data frame containing mappings between various language codes for a
@@ -26,5 +29,7 @@ Glottolog, ISO-639-3 and WALS. Retrieved from \url{https://github.com/ddediu/pho
 
 \references{
   Dediu, D., & Moisik, S. (2016). Defining and counting phonological classes in cross-linguistic segment databases. In N. Calzolari, K. Choukri, T. Declerck, S. Goggi, M. Grobelnik, B. Maegaard, J. Mariani, H. Mazo, A. Moreno, J. Odijk, & S. Piperidis (Eds.), Proceedings of LREC 2016: 10th International Conference on Language Resources and Evaluation (pp. 1955-1962). Paris: European Language Resources Association (ELRA).
+  
+  Nichols, Johanna, Balthasar Bickel, Alena Witzlack-Makarevich, Taras Zakharko, Kristine Hildebrandt, Michael Rießler, Lennard Bierkandt, Fernando Zúñiga & John B Lowe. 2017. The AUTOTYP typological databases, version 0.1.0. Zurich: University of Zurich (to be released via GitHub in February 2017).
 }
 \keyword{datasets}

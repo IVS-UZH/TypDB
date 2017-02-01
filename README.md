@@ -18,3 +18,9 @@ TypDB maintains a language code mapping table (`?language_ids`). This table cont
 
 All included datasets are property of their respective owners. TypDB merely includes them in a ready-to-use format for user convenience. Please cite the respective source if you are using the data in a publication. 
 
+## Acknowledgements
+
+The development of TypDB was funded jointly by the Department of Comparative Linguistics, University of Zürich
+([Website](http://www.comparativelinguistics.uzh.ch/en.html)) and the URPP Language and Space, University of Zurich
+([Website](http://www.spur.uzh.ch/en.html)).
+
